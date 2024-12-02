@@ -26,13 +26,9 @@ Root Mean Square Error (RMSE): Measures the average magnitude of prediction erro
 Root Mean Square Logarithmic Error (RMSLE): Evaluates logarithmic differences between actual and predicted values.
 Mean Absolute Error (MAE): Measures the average of absolute prediction errors.
 Mean Absolute Percentage Error (MAPE): Evaluates the percentage error relative to actual values.
-## Results
-ARIMAX-EGARCH: Demonstrated higher accuracy and stability in forecasting daily closing prices.
-NARX Neural Network: Effective in handling non-linear datasets but requires fine-tuning and is sensitive to data preprocessing.
 ## Future Work
 Integrating hybrid models that combine statistical and machine learning approaches.
 Exploring other neural network architectures like LSTM or GRU for time series forecasting.
-Application to high-frequency or multi-asset financial datasets.
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for improvements or additional features.
 
