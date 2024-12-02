@@ -14,15 +14,11 @@ Includes code for evaluating performance metrics such as RMSE, RMSLE, MAE, and M
 
 Implements the ARIMAX-EGARCH model for forecasting, including diagnostic tests.
 Includes code for evaluating performance metrics such as RMSE, RMSLE, MAE, and MAPE.
-## Data:
+## Data
 
 Contains daily data from Dr. Abidi Pharmaceutical Company, a member of the Tehran Stock Exchange (stock symbol: Dabid).
 The dataset spans 7 years, collected from November 27, 2011, to March 20, 2019.
 Preprocessing includes converting character columns to numeric values and applying logarithmic transformations.
-## Outputs:
-
-Predicted stock prices.
-Performance evaluation metrics and visualizations for comparison.
 ## Performance Evaluation
 The models are compared using the following metrics:
 
